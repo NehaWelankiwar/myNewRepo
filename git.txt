@@ -1,0 +1,49 @@
+
+ git config --global user.email " "
+ git config --global user.name " "
+ git config --global alias._ (command)
+
+ git init
+ git add .
+
+
+ git commit -m " "
+ git commit -a -m " "
+ git commit --amend
+
+git log
+git log --oneline
+git log -p -1
+
+ git status
+
+
+ git diff
+ git digg --cached
+ 
+ ssh-keygen
+
+ git remote add <name> <url>
+ git remote -v
+
+git clone
+
+git rm
+git rm --cached  
+git rm -rf 
+
+.gitignore
+
+
+git restore
+git restore --staged 
+git reset
+gir revert <commit>
+
+git checkout -b <new_branch_name>
+git checkout <branch_name>
+git branch
+git merge <branch name>
+
+git pull <remote> <branch name>
+git push <remote> <branch name>

@@ -1,4 +1,38 @@
-this is my first file
-
-making changes
-changing
+ls
+cd
+cat
+touch
+vi 
+nano
+mkdir
+rmdir
+rm
+rm -rf
+echo
+clear
+sudo 
+su
+mv
+cp
+grep
+sort
+chmod
+chown
+chgrp
+pwd
+man
+history
+top
+ps -rf
+df
+nproc
+curl
+awk
+sed
+find
+more/less
+cut ssh
+scp
+if else, if elif
+for/while loop
+for/while loop
